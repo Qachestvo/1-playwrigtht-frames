@@ -1,0 +1,1 @@
+Вдохновлен статьей https://www.corbado.com/blog/passkeys-e2e-playwright-testing-webauthn-virtual-authenticator#simulate-cross-device-authentication
